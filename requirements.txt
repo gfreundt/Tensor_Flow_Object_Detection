@@ -1,0 +1,10 @@
+wget
+opencv-python
+tensorflow
+matplotlib
+protobuf
+Pillow
+pyaml
+PyQt5
+lxml
+tf_slim
