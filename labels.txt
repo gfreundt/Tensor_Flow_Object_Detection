@@ -1,0 +1,4 @@
+thumbsup
+thumbsdown
+thankyou
+livelong
